@@ -1,0 +1,84 @@
+/*fondo*/
+
+.bodys {
+    background-color: #f6f8ffff;
+}
+/* barra de navegacion y botones*/
+.unorder {
+    background-color:#025464;
+}
+/*link navbar*/
+.buttons {
+    /* color:#F2CB57; */
+    color:#F9FBE7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16 !important;
+    font-weight: 600;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.hydro-footer {
+    background-color: #2d3246;
+}
+
+.texto {
+    color: #f6f8ffff;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+/* 
+.desc {
+    color: black;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+} */
+
+h5 {
+    color: #23ce6bff;
+}
+
+.index-font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    background-color: rgba(68, 68, 68, 0.562);
+    text-align: center;
+}
+
+.card-font {
+    color: #50514fff;
+    background-color: #f6f8ffff;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.hydro {
+    background-color: rgba(80, 202, 206, 0.644);
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+
+.card-about {
+    color: #50514fff;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.nav-list{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.link{
+    color:#23ce6bff;
+}
+.text-about{
+    color:#2d3246;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
