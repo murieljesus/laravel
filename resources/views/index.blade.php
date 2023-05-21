@@ -23,7 +23,6 @@
         </div>
     </div>
 </div>
-
 <div class=" container-fluid p-md-0">
         <div class="text-center card-font">
              <p>Bienvenidos a Hydro</p>

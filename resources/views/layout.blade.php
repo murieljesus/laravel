@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{-- <link rel="shortcut icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" href="img/favicon.ico" />
     <link rel="stylesheet" href="resources/css/app.css">
-    <link rel="stylesheet" href="resources/css/appstyle.css">
+    <link rel="stylesheet" href="resources/css/style.css">
     <script src="{{ asset('js/app.js') }}"></script>
-    <script src="{{ asset('resources/css/app.css') }}" rel="stylesheet"></script>
+    <script src="{{ asset('css/app.css') }}" rel="stylesheet"></script>
+    <script src="{{ asset('css/style.css') }}" rel="stylesheet"></script>
     <script src="{{asset('js/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-    <link rel="stylesheet" href="resources/sass/app.css"> --}}
+    <link rel="stylesheet" href="resources/sass/app.css">
      {{-- @vite(['resources/sass/app.scss', 'resources/js/app.js', 'resources/css/app.css', 'resources/css/appstyle.css']) --}}
      @vite(['resources/sass/app.scss', 'resources/js/app.js','resources/css/app.css', 'resources/css/style.css'])
 
